@@ -10,5 +10,5 @@ if is_ubuntu; then
 fi
 
 if is_windows; then
-  choco install -y chromium
+  choco install -y googlechrome
 fi
